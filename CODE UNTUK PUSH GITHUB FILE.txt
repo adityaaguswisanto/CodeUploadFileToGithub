@@ -6,6 +6,6 @@ $ ls //untuk melihat filenya
 $ git init
 $ git remote add origin https://github.com/adityagusw/namaprojectnya
 $ git remote -v
-$ git add .
+$ git add -A
 $ git commit -m "untuk komentar"
 $ git push origin master
